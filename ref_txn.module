@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Reference Transaction feature.
+ */
+
+include_once('ref_txn.features.inc');
