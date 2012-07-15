@@ -1,6 +1,11 @@
 Reference Transaction 7.x-x.x xxxx-xx-xx
 ----------------------------------------
 
+Reference Transaction 7.x-1.0-alpha5 2012-07-15
+-----------------------------------------------
+  Changes since -alpha4:
+    -Added strongarm variables
+
 Reference Transaction 7.x-1.0-alpha4 2012-07-15
 -----------------------------------------------
   Changes since -alpha2:
